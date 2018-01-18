@@ -1008,12 +1008,12 @@
     <message>
         <location filename="../../fpwin.cpp" line="2023"/>
         <source>Uneditable file(s)!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke-redigerbare fil(er)!</translation>
     </message>
     <message>
         <location filename="../../fpwin.cpp" line="2024"/>
         <source>Non-text files or files with huge lines cannot be edited.</source>
-        <translation type="unfinished"></translation>
+        <translation>Filer som ikke er tekst, eller filer med kæmpe linjer kan ikke redigeres.</translation>
     </message>
     <message>
         <location filename="../../fpwin.cpp" line="2051"/>
@@ -1112,13 +1112,13 @@
         <location filename="../../fpwin.cpp" line="3833"/>
         <location filename="../../fpwin.cpp" line="3897"/>
         <source>Copy Target Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiér målsti</translation>
     </message>
     <message>
         <location filename="../../fpwin.cpp" line="3837"/>
         <location filename="../../fpwin.cpp" line="3901"/>
         <source>Open Target Here</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn mål her</translation>
     </message>
     <message>
         <location filename="../../fpwin.cpp" line="4002"/>
